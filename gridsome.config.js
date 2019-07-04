@@ -22,6 +22,7 @@ module.exports = {
       options: {
         path: "posts/**/*.md",
         typeName: "Post",
+        route: "/blog/slug",
         remark: {
           plugins: [
             // ...local plugins
