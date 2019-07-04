@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/venkatasubash/new
+  repo: venkatasubash/new
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
